@@ -1,0 +1,759 @@
+{"frames": {
+
+"items/bakery_door 1.png":
+{
+	"frame": {"x":1190,"y":872,"w":144,"h":187},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":59,"y":31,"w":144,"h":187},
+	"sourceSize": {"w":256,"h":256}
+},
+"items/biscuit 2.png":
+{
+	"frame": {"x":1495,"y":1919,"w":149,"h":126},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":63,"y":75,"w":149,"h":126},
+	"sourceSize": {"w":256,"h":256}
+},
+"items/broom 1.png":
+{
+	"frame": {"x":1722,"y":469,"w":137,"h":181},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":57,"y":29,"w":137,"h":181},
+	"sourceSize": {"w":256,"h":256}
+},
+"items/broom 2.png":
+{
+	"frame": {"x":1810,"y":1,"w":128,"h":185},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":67,"y":26,"w":128,"h":185},
+	"sourceSize": {"w":256,"h":256}
+},
+"items/broom 3.png":
+{
+	"frame": {"x":1421,"y":205,"w":137,"h":189},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":62,"y":21,"w":137,"h":189},
+	"sourceSize": {"w":256,"h":256}
+},
+"items/broom 4.png":
+{
+	"frame": {"x":1221,"y":211,"w":134,"h":198},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":65,"y":15,"w":134,"h":198},
+	"sourceSize": {"w":256,"h":256}
+},
+"items/broom 5.png":
+{
+	"frame": {"x":1425,"y":344,"w":153,"h":193},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":56,"y":23,"w":153,"h":193},
+	"sourceSize": {"w":256,"h":256}
+},
+"items/caldron 9.png":
+{
+	"frame": {"x":1583,"y":1563,"w":177,"h":177},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":38,"y":41,"w":177,"h":177},
+	"sourceSize": {"w":256,"h":256}
+},
+"items/cloak 1.png":
+{
+	"frame": {"x":1083,"y":819,"w":105,"h":197},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":77,"y":27,"w":105,"h":197},
+	"sourceSize": {"w":256,"h":256}
+},
+"items/cloak 2.png":
+{
+	"frame": {"x":1211,"y":1,"w":104,"h":204},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":79,"y":25,"w":104,"h":204},
+	"sourceSize": {"w":256,"h":256}
+},
+"items/cloak 3.png":
+{
+	"frame": {"x":1194,"y":620,"w":100,"h":196},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":79,"y":26,"w":100,"h":196},
+	"sourceSize": {"w":256,"h":256}
+},
+"items/cloak 4.png":
+{
+	"frame": {"x":1211,"y":107,"w":102,"h":202},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":80,"y":24,"w":102,"h":202},
+	"sourceSize": {"w":256,"h":256}
+},
+"items/cloak 5.png":
+{
+	"frame": {"x":1083,"y":418,"w":143,"h":200},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":59,"y":29,"w":143,"h":200},
+	"sourceSize": {"w":256,"h":256}
+},
+"items/cloak 6.png":
+{
+	"frame": {"x":1083,"y":1,"w":126,"h":209},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":68,"y":17,"w":126,"h":209},
+	"sourceSize": {"w":256,"h":256}
+},
+"items/cloak 7.png":
+{
+	"frame": {"x":1083,"y":620,"w":109,"h":197},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":77,"y":19,"w":109,"h":197},
+	"sourceSize": {"w":256,"h":256}
+},
+"items/cloak 8.png":
+{
+	"frame": {"x":1083,"y":212,"w":136,"h":204},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":63,"y":30,"w":136,"h":204},
+	"sourceSize": {"w":256,"h":256}
+},
+"items/cloak 9.png":
+{
+	"frame": {"x":1083,"y":1018,"w":137,"h":196},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":61,"y":21,"w":137,"h":196},
+	"sourceSize": {"w":256,"h":256}
+},
+"items/cloak 10.png":
+{
+	"frame": {"x":1392,"y":617,"w":162,"h":188},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":53,"y":37,"w":162,"h":188},
+	"sourceSize": {"w":256,"h":256}
+},
+"items/clock 2.png":
+{
+	"frame": {"x":787,"y":1923,"w":120,"h":151},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":72,"y":51,"w":120,"h":151},
+	"sourceSize": {"w":256,"h":256}
+},
+"items/cooker 1.png":
+{
+	"frame": {"x":1947,"y":608,"w":94,"h":125},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":83,"y":71,"w":94,"h":125},
+	"sourceSize": {"w":256,"h":256}
+},
+"items/cooker 5.png":
+{
+	"frame": {"x":1734,"y":1256,"w":124,"h":171},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":69,"y":40,"w":124,"h":171},
+	"sourceSize": {"w":256,"h":256}
+},
+"items/crystal 4.png":
+{
+	"frame": {"x":1649,"y":1903,"w":108,"h":142},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":77,"y":59,"w":108,"h":142},
+	"sourceSize": {"w":256,"h":256}
+},
+"items/crystal 7.png":
+{
+	"frame": {"x":1357,"y":1752,"w":136,"h":175},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":63,"y":48,"w":136,"h":175},
+	"sourceSize": {"w":256,"h":256}
+},
+"items/dough 1.png":
+{
+	"frame": {"x":1941,"y":740,"w":150,"h":101},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":56,"y":82,"w":150,"h":101},
+	"sourceSize": {"w":256,"h":256}
+},
+"items/dragon_fire 1.png":
+{
+	"frame": {"x":1083,"y":1379,"w":153,"h":181},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":54,"y":26,"w":153,"h":181},
+	"sourceSize": {"w":256,"h":256}
+},
+"items/dragon_fruit 1 sleep.png":
+{
+	"frame": {"x":1083,"y":1745,"w":169,"h":123},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":40,"y":70,"w":169,"h":123},
+	"sourceSize": {"w":256,"h":256}
+},
+"items/dragon_fruit 1.png":
+{
+	"frame": {"x":1228,"y":347,"w":159,"h":195},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":52,"y":17,"w":159,"h":195},
+	"sourceSize": {"w":256,"h":256}
+},
+"items/dragon_ice 1.png":
+{
+	"frame": {"x":1275,"y":1207,"w":164,"h":183},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":48,"y":26,"w":164,"h":183},
+	"sourceSize": {"w":256,"h":256}
+},
+"items/elixir 1.png":
+{
+	"frame": {"x":1508,"y":1574,"w":70,"h":93},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":95,"y":82,"w":70,"h":93},
+	"sourceSize": {"w":256,"h":256}
+},
+"items/elixir 5.png":
+{
+	"frame": {"x":1923,"y":1547,"w":118,"h":169},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":73,"y":33,"w":118,"h":169},
+	"sourceSize": {"w":256,"h":256}
+},
+"items/elixir 6.png":
+{
+	"frame": {"x":1905,"y":458,"w":148,"h":142},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":68,"y":57,"w":148,"h":142},
+	"sourceSize": {"w":256,"h":256}
+},
+"items/elixir 8.png":
+{
+	"frame": {"x":1741,"y":1097,"w":178,"h":157},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":39,"y":45,"w":178,"h":157},
+	"sourceSize": {"w":256,"h":256}
+},
+"items/elixir 9.png":
+{
+	"frame": {"x":1583,"y":1383,"w":160,"h":178},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":53,"y":29,"w":160,"h":178},
+	"sourceSize": {"w":256,"h":256}
+},
+"items/elixir 10.png":
+{
+	"frame": {"x":1597,"y":941,"w":154,"h":179},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":59,"y":31,"w":154,"h":179},
+	"sourceSize": {"w":256,"h":256}
+},
+"items/elixir 11.png":
+{
+	"frame": {"x":1762,"y":1901,"w":137,"h":173},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":63,"y":37,"w":137,"h":173},
+	"sourceSize": {"w":256,"h":256}
+},
+"items/elixir 12.png":
+{
+	"frame": {"x":1421,"y":1392,"w":160,"h":180},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":57,"y":31,"w":160,"h":180},
+	"sourceSize": {"w":256,"h":256}
+},
+"items/elixir 13.png":
+{
+	"frame": {"x":1559,"y":1107,"w":126,"h":180},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":67,"y":30,"w":126,"h":180},
+	"sourceSize": {"w":256,"h":256}
+},
+"items/elixir 14.png":
+{
+	"frame": {"x":1417,"y":1,"w":150,"h":197},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":56,"y":12,"w":150,"h":197},
+	"sourceSize": {"w":256,"h":256}
+},
+"items/emerald 3.png":
+{
+	"frame": {"x":1083,"y":1916,"w":131,"h":127},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":65,"y":67,"w":131,"h":127},
+	"sourceSize": {"w":256,"h":256}
+},
+"items/energy_chest closed 3.png":
+{
+	"frame": {"x":1762,"y":1547,"w":159,"h":175},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":53,"y":32,"w":159,"h":175},
+	"sourceSize": {"w":256,"h":256}
+},
+"items/energy_chest opened 3.png":
+{
+	"frame": {"x":1762,"y":1724,"w":159,"h":175},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":53,"y":30,"w":159,"h":175},
+	"sourceSize": {"w":256,"h":256}
+},
+"items/flour 1.png":
+{
+	"frame": {"x":1958,"y":892,"w":140,"h":75},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":70,"y":94,"w":140,"h":75},
+	"sourceSize": {"w":256,"h":256}
+},
+"items/fridge 4.png":
+{
+	"frame": {"x":1937,"y":1884,"w":110,"h":150},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":75,"y":56,"w":110,"h":150},
+	"sourceSize": {"w":256,"h":256}
+},
+"items/gingerbread_house 9.png":
+{
+	"frame": {"x":1809,"y":309,"w":182,"h":147},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":40,"y":57,"w":182,"h":147},
+	"sourceSize": {"w":256,"h":256}
+},
+"items/gnome 3.png":
+{
+	"frame": {"x":1390,"y":508,"w":107,"h":152},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":80,"y":55,"w":107,"h":152},
+	"sourceSize": {"w":256,"h":256}
+},
+"items/goblet 4.png":
+{
+	"frame": {"x":1228,"y":508,"w":101,"h":160},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":79,"y":43,"w":101,"h":160},
+	"sourceSize": {"w":256,"h":256}
+},
+"items/goblet 9.png":
+{
+	"frame": {"x":1412,"y":958,"w":183,"h":147},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":39,"y":53,"w":183,"h":147},
+	"sourceSize": {"w":256,"h":256}
+},
+"items/goblet 10.png":
+{
+	"frame": {"x":1582,"y":617,"w":182,"h":162},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":39,"y":46,"w":182,"h":162},
+	"sourceSize": {"w":256,"h":256}
+},
+"items/hut 1.png":
+{
+	"frame": {"x":1907,"y":1256,"w":139,"h":121},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":61,"y":68,"w":139,"h":121},
+	"sourceSize": {"w":256,"h":256}
+},
+"items/hut 6.png":
+{
+	"frame": {"x":1083,"y":1216,"w":161,"h":190},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":49,"y":23,"w":161,"h":190},
+	"sourceSize": {"w":256,"h":256}
+},
+"items/hut 7.png":
+{
+	"frame": {"x":1616,"y":1,"w":148,"h":192},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":57,"y":28,"w":148,"h":192},
+	"sourceSize": {"w":256,"h":256}
+},
+"items/hut 8.png":
+{
+	"frame": {"x":1212,"y":1562,"w":147,"h":180},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":58,"y":35,"w":147,"h":180},
+	"sourceSize": {"w":256,"h":256}
+},
+"items/hut 9.png":
+{
+	"frame": {"x":1808,"y":151,"w":156,"h":185},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":55,"y":29,"w":156,"h":185},
+	"sourceSize": {"w":256,"h":256}
+},
+"items/lantern 3.png":
+{
+	"frame": {"x":1212,"y":1922,"w":125,"h":141},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":69,"y":59,"w":125,"h":141},
+	"sourceSize": {"w":256,"h":256}
+},
+"items/lantern 4.png":
+{
+	"frame": {"x":1649,"y":1742,"w":111,"h":159},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":79,"y":43,"w":111,"h":159},
+	"sourceSize": {"w":256,"h":256}
+},
+"items/lantern 5.png":
+{
+	"frame": {"x":1441,"y":1204,"w":111,"h":167},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":75,"y":32,"w":111,"h":167},
+	"sourceSize": {"w":256,"h":256}
+},
+"items/lantern 6.png":
+{
+	"frame": {"x":1,"y":1923,"w":116,"h":162},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":74,"y":48,"w":116,"h":162},
+	"sourceSize": {"w":256,"h":256}
+},
+"items/letter_book 8.png":
+{
+	"frame": {"x":1745,"y":1382,"w":163,"h":177},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":50,"y":36,"w":163,"h":177},
+	"sourceSize": {"w":256,"h":256}
+},
+"items/letter_book 10.png":
+{
+	"frame": {"x":1391,"y":781,"w":175,"h":184},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":41,"y":33,"w":175,"h":184},
+	"sourceSize": {"w":256,"h":256}
+},
+"items/letter_book 11.png":
+{
+	"frame": {"x":1616,"y":151,"w":179,"h":190},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":39,"y":25,"w":179,"h":190},
+	"sourceSize": {"w":256,"h":256}
+},
+"items/magic_mushroom 7.png":
+{
+	"frame": {"x":1554,"y":1235,"w":146,"h":178},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":62,"y":40,"w":146,"h":178},
+	"sourceSize": {"w":256,"h":256}
+},
+"items/magic_mushroom 9.png":
+{
+	"frame": {"x":1222,"y":1018,"w":187,"h":188},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":36,"y":32,"w":187,"h":188},
+	"sourceSize": {"w":256,"h":256}
+},
+"items/mandrake 3.png":
+{
+	"frame": {"x":1923,"y":1718,"w":124,"h":164},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":71,"y":33,"w":124,"h":164},
+	"sourceSize": {"w":256,"h":256}
+},
+"items/metal_coin 1.png":
+{
+	"frame": {"x":1415,"y":153,"w":50,"h":84},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":102,"y":94,"w":50,"h":84},
+	"sourceSize": {"w":256,"h":256}
+},
+"items/mill 1.png":
+{
+	"frame": {"x":1577,"y":781,"w":158,"h":181},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":51,"y":28,"w":158,"h":181},
+	"sourceSize": {"w":256,"h":256}
+},
+"items/old_map 3.png":
+{
+	"frame": {"x":940,"y":1923,"w":123,"h":141},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":66,"y":61,"w":123,"h":141},
+	"sourceSize": {"w":256,"h":256}
+},
+"items/old_map 4.png":
+{
+	"frame": {"x":1412,"y":1107,"w":95,"h":145},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":84,"y":56,"w":95,"h":145},
+	"sourceSize": {"w":256,"h":256}
+},
+"items/old_map 5.png":
+{
+	"frame": {"x":633,"y":1923,"w":114,"h":152},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":75,"y":50,"w":114,"h":152},
+	"sourceSize": {"w":256,"h":256}
+},
+"items/owl 5.png":
+{
+	"frame": {"x":324,"y":1923,"w":122,"h":153},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":79,"y":52,"w":122,"h":153},
+	"sourceSize": {"w":256,"h":256}
+},
+"items/owl 6.png":
+{
+	"frame": {"x":1766,"y":608,"w":130,"h":179},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":71,"y":40,"w":130,"h":179},
+	"sourceSize": {"w":256,"h":256}
+},
+"items/owl 7.png":
+{
+	"frame": {"x":1778,"y":928,"w":118,"h":178},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":73,"y":37,"w":118,"h":178},
+	"sourceSize": {"w":256,"h":256}
+},
+"items/owl 9.png":
+{
+	"frame": {"x":1238,"y":1392,"w":129,"h":181},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":67,"y":46,"w":129,"h":181},
+	"sourceSize": {"w":256,"h":256}
+},
+"items/owl 10.png":
+{
+	"frame": {"x":1194,"y":722,"w":148,"h":195},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":59,"y":24,"w":148,"h":195},
+	"sourceSize": {"w":256,"h":256}
+},
+"items/quill_ink 3.png":
+{
+	"frame": {"x":1924,"y":1379,"w":119,"h":161},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":77,"y":42,"w":119,"h":161},
+	"sourceSize": {"w":256,"h":256}
+},
+"items/quill_ink 4.png":
+{
+	"frame": {"x":165,"y":1923,"w":117,"h":157},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":75,"y":48,"w":117,"h":157},
+	"sourceSize": {"w":256,"h":256}
+},
+"items/quill_ink 5.png":
+{
+	"frame": {"x":1921,"y":1048,"w":123,"h":169},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":71,"y":35,"w":123,"h":169},
+	"sourceSize": {"w":256,"h":256}
+},
+"items/quill_ink 7.png":
+{
+	"frame": {"x":1620,"y":332,"w":135,"h":187},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":67,"y":23,"w":135,"h":187},
+	"sourceSize": {"w":256,"h":256}
+},
+"items/scone 3.png":
+{
+	"frame": {"x":479,"y":1923,"w":152,"h":118},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":55,"y":78,"w":152,"h":118},
+	"sourceSize": {"w":256,"h":256}
+},
+"items/tool key.png":
+{
+	"frame": {"x":1355,"y":1929,"w":118,"h":132},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":71,"y":63,"w":118,"h":132},
+	"sourceSize": {"w":256,"h":256}
+},
+"items/witch_closet 2.png":
+{
+	"frame": {"x":1544,"y":499,"w":116,"h":176},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":68,"y":36,"w":116,"h":176},
+	"sourceSize": {"w":256,"h":256}
+},
+"items/witch_closet 4.png":
+{
+	"frame": {"x":1508,"y":1742,"w":139,"h":175},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":67,"y":35,"w":139,"h":175},
+	"sourceSize": {"w":256,"h":256}
+},
+"items/witch_closet 5.png":
+{
+	"frame": {"x":1760,"y":781,"w":145,"h":179},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":65,"y":31,"w":145,"h":179},
+	"sourceSize": {"w":256,"h":256}
+},
+"items/witch_closet 6.png":
+{
+	"frame": {"x":1212,"y":1744,"w":143,"h":176},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":66,"y":35,"w":143,"h":176},
+	"sourceSize": {"w":256,"h":256}
+},
+"items/witch_closet 7.png":
+{
+	"frame": {"x":1361,"y":1574,"w":145,"h":176},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":59,"y":39,"w":145,"h":176},
+	"sourceSize": {"w":256,"h":256}
+},
+"items/witch_closet 8.png":
+{
+	"frame": {"x":1083,"y":1562,"w":127,"h":181},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":73,"y":32,"w":127,"h":181},
+	"sourceSize": {"w":256,"h":256}
+},
+"ui/back.png":
+{
+	"frame": {"x":1,"y":1,"w":1080,"h":1920},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1080,"h":1920},
+	"sourceSize": {"w":1080,"h":1920}
+}},
+"animations": {
+	"items/apple ": ["items/apple 1.png","items/apple 2.png","items/apple 3.png","items/apple 4.png","items/apple 5.png"],
+	"items/biscuit ": ["items/biscuit 1.png","items/biscuit 2.png","items/biscuit 3.png","items/biscuit 4.png","items/biscuit 5.png","items/biscuit 6.png","items/biscuit 7.png","items/biscuit 8.png","items/biscuit 9.png","items/biscuit 10.png"],
+	"items/blue_chest closed ": ["items/blue_chest closed 1.png","items/blue_chest closed 2.png"],
+	"items/blue_chest opened ": ["items/blue_chest opened 1.png","items/blue_chest opened 2.png"],
+	"items/box ": ["items/box 1.png","items/box 2.png","items/box 3.png"],
+	"items/broom ": ["items/broom 1.png","items/broom 2.png","items/broom 3.png","items/broom 4.png","items/broom 5.png"],
+	"items/bun ": ["items/bun 1.png","items/bun 2.png","items/bun 3.png","items/bun 4.png","items/bun 5.png","items/bun 6.png","items/bun 7.png","items/bun 8.png","items/bun 9.png","items/bun 10.png"],
+	"items/cake ": ["items/cake 1.png","items/cake 2.png","items/cake 3.png","items/cake 4.png","items/cake 5.png","items/cake 6.png","items/cake 7.png"],
+	"items/caldron ": ["items/caldron 1.png","items/caldron 2.png","items/caldron 3.png","items/caldron 4.png","items/caldron 5.png","items/caldron 6.png","items/caldron 7.png","items/caldron 8.png","items/caldron 9.png","items/caldron 10.png"],
+	"items/candy ": ["items/candy 1.png","items/candy 2.png","items/candy 3.png","items/candy 4.png","items/candy 5.png","items/candy 6.png","items/candy 7.png","items/candy 8.png","items/candy 9.png","items/candy 10.png","items/candy 11.png","items/candy 12.png","items/candy 13.png"],
+	"items/cloak ": ["items/cloak 1.png","items/cloak 2.png","items/cloak 3.png","items/cloak 4.png","items/cloak 5.png","items/cloak 6.png","items/cloak 7.png","items/cloak 8.png","items/cloak 9.png","items/cloak 10.png"],
+	"items/clock ": ["items/clock 1.png","items/clock 2.png","items/clock 3.png"],
+	"items/cooker ": ["items/cooker 1.png","items/cooker 2.png","items/cooker 3.png","items/cooker 4.png","items/cooker 5.png"],
+	"items/crystal ": ["items/crystal 1.png","items/crystal 2.png","items/crystal 3.png","items/crystal 4.png","items/crystal 5.png","items/crystal 6.png","items/crystal 7.png"],
+	"items/crystal_ball ": ["items/crystal_ball 1.png","items/crystal_ball 2.png","items/crystal_ball 3.png","items/crystal_ball 4.png","items/crystal_ball 5.png","items/crystal_ball 6.png"],
+	"items/e_bean ": ["items/e_bean 1.png","items/e_bean 2.png","items/e_bean 3.png","items/e_bean 4.png","items/e_bean 5.png"],
+	"items/elixir ": ["items/elixir 1.png","items/elixir 2.png","items/elixir 3.png","items/elixir 4.png","items/elixir 5.png","items/elixir 6.png","items/elixir 7.png","items/elixir 8.png","items/elixir 9.png","items/elixir 10.png","items/elixir 11.png","items/elixir 12.png","items/elixir 13.png","items/elixir 14.png"],
+	"items/elixir_box closed ": ["items/elixir_box closed 1.png","items/elixir_box closed 2.png"],
+	"items/elixir_box opened ": ["items/elixir_box opened 1.png","items/elixir_box opened 2.png"],
+	"items/emerald ": ["items/emerald 1.png","items/emerald 2.png","items/emerald 3.png","items/emerald 4.png"],
+	"items/energy_chest closed ": ["items/energy_chest closed 1.png","items/energy_chest closed 2.png","items/energy_chest closed 3.png"],
+	"items/energy_chest opened ": ["items/energy_chest opened 1.png","items/energy_chest opened 2.png","items/energy_chest opened 3.png"],
+	"items/fire ": ["items/fire 1.png","items/fire 2.png","items/fire 3.png","items/fire 4.png","items/fire 5.png","items/fire 6.png"],
+	"items/flour ": ["items/flour 1.png","items/flour 2.png","items/flour 3.png","items/flour 4.png","items/flour 5.png"],
+	"items/fridge ": ["items/fridge 1.png","items/fridge 2.png","items/fridge 3.png","items/fridge 4.png","items/fridge 5.png"],
+	"items/gingerbread_house ": ["items/gingerbread_house 1.png","items/gingerbread_house 2.png","items/gingerbread_house 3.png","items/gingerbread_house 4.png","items/gingerbread_house 5.png","items/gingerbread_house 6.png","items/gingerbread_house 7.png","items/gingerbread_house 8.png","items/gingerbread_house 9.png","items/gingerbread_house 10.png"],
+	"items/gnome ": ["items/gnome 1.png","items/gnome 2.png","items/gnome 3.png","items/gnome 4.png","items/gnome 5.png","items/gnome 6.png"],
+	"items/goblet ": ["items/goblet 1.png","items/goblet 2.png","items/goblet 3.png","items/goblet 4.png","items/goblet 5.png","items/goblet 6.png","items/goblet 7.png","items/goblet 8.png","items/goblet 9.png","items/goblet 10.png"],
+	"items/herb ": ["items/herb 1.png","items/herb 2.png","items/herb 3.png","items/herb 4.png"],
+	"items/hut ": ["items/hut 1.png","items/hut 2.png","items/hut 3.png","items/hut 4.png","items/hut 5.png","items/hut 6.png","items/hut 7.png","items/hut 8.png","items/hut 9.png"],
+	"items/icecream ": ["items/icecream 1.png","items/icecream 2.png","items/icecream 3.png","items/icecream 4.png","items/icecream 5.png","items/icecream 6.png","items/icecream 7.png","items/icecream 8.png"],
+	"items/lantern ": ["items/lantern 1.png","items/lantern 2.png","items/lantern 3.png","items/lantern 4.png","items/lantern 5.png","items/lantern 6.png"],
+	"items/letter_book ": ["items/letter_book 1.png","items/letter_book 2.png","items/letter_book 3.png","items/letter_book 4.png","items/letter_book 5.png","items/letter_book 6.png","items/letter_book 7.png","items/letter_book 8.png","items/letter_book 9.png","items/letter_book 10.png","items/letter_book 11.png"],
+	"items/magic_mushroom ": ["items/magic_mushroom 1.png","items/magic_mushroom 2.png","items/magic_mushroom 3.png","items/magic_mushroom 4.png","items/magic_mushroom 5.png","items/magic_mushroom 6.png","items/magic_mushroom 7.png","items/magic_mushroom 8.png","items/magic_mushroom 9.png","items/magic_mushroom 10.png"],
+	"items/mandrake ": ["items/mandrake 1.png","items/mandrake 2.png","items/mandrake 3.png","items/mandrake 4.png"],
+	"items/metal ": ["items/metal 1.png","items/metal 2.png","items/metal 3.png","items/metal 4.png"],
+	"items/metal_coin ": ["items/metal_coin 1.png","items/metal_coin 2.png","items/metal_coin 3.png","items/metal_coin 4.png","items/metal_coin 5.png","items/metal_coin 6.png"],
+	"items/mortar ": ["items/mortar 1.png","items/mortar 2.png","items/mortar 3.png","items/mortar 4.png","items/mortar 5.png","items/mortar 6.png"],
+	"items/old_map ": ["items/old_map 1.png","items/old_map 2.png","items/old_map 3.png","items/old_map 4.png","items/old_map 5.png","items/old_map 6.png"],
+	"items/owl ": ["items/owl 1.png","items/owl 2.png","items/owl 3.png","items/owl 4.png","items/owl 5.png","items/owl 6.png","items/owl 7.png","items/owl 8.png","items/owl 9.png","items/owl 10.png"],
+	"items/owl_box closed ": ["items/owl_box closed 1.png","items/owl_box closed 2.png"],
+	"items/owl_box opened ": ["items/owl_box opened 1.png","items/owl_box opened 2.png"],
+	"items/pasties ": ["items/pasties 1.png","items/pasties 2.png","items/pasties 3.png","items/pasties 4.png","items/pasties 5.png","items/pasties 6.png","items/pasties 7.png"],
+	"items/pig_chest ": ["items/pig_chest 1.png","items/pig_chest 2.png","items/pig_chest 3.png"],
+	"items/pig_chest closed ": ["items/pig_chest closed 1.png","items/pig_chest closed 2.png","items/pig_chest closed 3.png"],
+	"items/quill_ink ": ["items/quill_ink 1.png","items/quill_ink 2.png","items/quill_ink 3.png","items/quill_ink 4.png","items/quill_ink 5.png","items/quill_ink 6.png","items/quill_ink 7.png"],
+	"items/red_chest closed ": ["items/red_chest closed 1.png","items/red_chest closed 2.png"],
+	"items/red_chest opened ": ["items/red_chest opened 1.png","items/red_chest opened 2.png"],
+	"items/ring ": ["items/ring 1.png","items/ring 2.png","items/ring 3.png","items/ring 4.png"],
+	"items/scone ": ["items/scone 1.png","items/scone 2.png","items/scone 3.png","items/scone 4.png","items/scone 5.png"],
+	"items/stone ": ["items/stone 1.png","items/stone 2.png","items/stone 3.png","items/stone 4.png","items/stone 5.png","items/stone 6.png"],
+	"items/stove ": ["items/stove 1.png","items/stove 2.png","items/stove 3.png","items/stove 4.png","items/stove 5.png"],
+	"items/witch_box closed ": ["items/witch_box closed 1.png","items/witch_box closed 2.png"],
+	"items/witch_box opened ": ["items/witch_box opened 1.png","items/witch_box opened 2.png"],
+	"items/witch_closet ": ["items/witch_closet 1.png","items/witch_closet 2.png","items/witch_closet 3.png","items/witch_closet 4.png","items/witch_closet 5.png","items/witch_closet 6.png","items/witch_closet 7.png","items/witch_closet 8.png","items/witch_closet 9.png","items/witch_closet 10.png"],
+	"items/witch_hat ": ["items/witch_hat 1.png","items/witch_hat 2.png","items/witch_hat 3.png","items/witch_hat 4.png"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "game-0.png",
+	"format": "RGBA8888",
+	"size": {"w":2048,"h":2048},
+	"scale": "1",
+	"related_multi_packs": [ "game-1.json", "game-2.json" ],
+	"smartupdate": "$TexturePacker:SmartUpdate:ac02d4aa0bf8a2d95d8f4095a7a69f7c:5758c82d899eb768d3aa5507f77ba45c:efcb69396b9626d6d6511dc03702d193$"
+}
+}
